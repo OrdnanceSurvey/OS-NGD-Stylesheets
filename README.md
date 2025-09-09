@@ -1,8 +1,10 @@
-## OS MasterMap Topography Layer SQL & stylesheets
+## OS National Geographic Database (NGD) stylesheets
 
-This repository contains database SQL scripts and cartographic stylesheets for styling OS MasterMap Topography Layer. Our hope is for this new method to become the standard way to post process the data so that styling OS MasterMap Topography Layer is far simpler and easier than before. It will also enable all of our customers and partners to utilise the released cartographic stylesheets.
+This repository contains stylesheets for OS NGD
 
-Cartographic style updates to our Outdoor, Road, and Light style will be coming soon! Look out for some new styles as well!
+Select the directory that matches the **format of your data**
+
+Cartographic styles are avaible in Outdoor, Road, Light and Black & White
 
 ## Licence
 
