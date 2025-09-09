@@ -1,4 +1,4 @@
-# OS Open Zoomstack LYR Files
+# OS National Geographic Database LYRX Files
 
 These are LYRX Files for OS NGD for use in ESRI ArcGIS Pro.
 
