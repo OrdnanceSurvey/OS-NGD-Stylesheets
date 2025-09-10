@@ -4,7 +4,7 @@ This repository contains stylesheets for OS NGD
 
 Select the directory that matches the **format of your data**
 
-Cartographic styles are avaible in Outdoor, Road, Light and Black & White
+Cartographic styles are available in Outdoor, Road, Light and Black & White
 
 ## Licence
 
